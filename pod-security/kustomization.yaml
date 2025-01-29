@@ -1,2 +1,5 @@
-bases:
-- restricted
+# bases:
+# - restricted
+
+resources: 
+  - restricted/disallow-privilege-escalation/disallow-privilege-escalation.yaml
